@@ -2,7 +2,7 @@
   Hi 👋, I'm Josep
 </h1>
 <h3 align="center">
-  CS student, researcher, and aspiring data whisperer.
+  Computer Enigneering student, researcher, and aspiring data whisperer.
 </h3>
 
 <p align="left"> 
