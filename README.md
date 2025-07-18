@@ -20,8 +20,8 @@ I regularly share knowledge through my [blog](https://josep-audenis.github.io/bl
 - 📄 [My CV](https://josep-audenis.github.io/files/CV.pdf)  
 
 <p align="center">
-  <a href="https://linkedin.com/in/josep-audenis-46397824b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="mailto:pepaudenisr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
+  <a href="https://linkedin.com/in/josep-audenis-46397824b" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="mailto:pepaudenisr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 <br>
 
 ---
