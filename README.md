@@ -35,7 +35,10 @@ I regularly share knowledge through my [blog](https://josep-audenis.github.io/bl
     </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/></code> 
-    </a> 
+    </a>
+    <a href="https://cplusplus.com/" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="35" height="35"></code>
+    </a>
     <a href="https://www.mathworks.com/" target="_blank"> 
         <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="35" height="35"/></code> 
     </a> 
