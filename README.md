@@ -14,7 +14,7 @@ I’m also interested in **quantitative finance**, **model interpretability**, a
 
 I regularly share knowledge through my [blog](https://josep-audenis.github.io/blog/) and showcase my projects in my [portfolio](https://josep-audenis.github.io/portfolio/). I'm always open to collaboration, discussions, and new ideas 💬.
 
-- 🔭 Currently working on: [Tennis probabilities with Markov Chains](https://github.com/josep-audenis/tennis-markov)  
+- 🔭 Currently working on: [Modeling Tennis with Markov Chains](https://github.com/josep-audenis/tennis-markov)  
 - 📂 Portfolio: [josep-audenis.github.io/portfolio](https://josep-audenis.github.io/portfolio/)  
 - ✍️ Blog: [josep-audenis.github.io/blog](https://josep-audenis.github.io/blog/)  
 - 📄 [My CV](https://josep-audenis.github.io/files/CV.pdf)  
