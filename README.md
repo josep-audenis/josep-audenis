@@ -2,12 +2,12 @@
   Hi 👋, I'm Josep
 </h1>
 <h3 align="center">
-  Computer Engineering Student | AI & Machine Learning Enthusiast | Researcher at La Salle URL
+  Computer Engineering Student | Data Scientist Intern @ Accenture | AI & Machine Learning Enthusiast
 </h3>
 
 ---
 
-I'm **Josep**, a **Researcher Intern** and **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** 🤖. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
+I'm **Josep**, a **Data Scientist Intern** at Accenture and last year **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** 🤖. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
 
 I'm currently exploring topics in **Deep Learning**, **Reinforcement Learning**, and **Remote Sensing**, including work on **low-quality image classification** using feature extraction and classical machine learning 📡.  
 I’m also interested in **quantitative finance**, **model interpretability**, and how AI can be applied across diverse fields, from computer vision to decision systems.
