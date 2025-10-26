@@ -9,14 +9,14 @@
 
 I'm **Josep**, a **Data Scientist Intern** at Accenture and last year **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** 🤖. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
 
-I'm currently exploring topics in **Deep Learning**, **Reinforcement Learning**, and **Remote Sensing**, including work on **low-quality image classification** using feature extraction and classical machine learning 📡.  
+I'm currently exploring topics in **Deep Learning**, **Reinforcement Learning**, and **Machine Learning**.  
 I’m also interested in **quantitative finance**, **model interpretability**, and how AI can be applied across diverse fields, from computer vision to decision systems.
 
 I regularly share knowledge through my [blog](https://josep-audenis.github.io/blog/) and showcase my projects in my [portfolio](https://josep-audenis.github.io/portfolio/). I'm always open to collaboration, discussions, and new ideas 💬.
 
-- 🔭 Currently working on: [Modeling Tennis with Markov Chains](https://github.com/josep-audenis/tennis-markov)  
+- 🔭 Currently working on: [Neural Network in C++](https://github.com/josep-audenis/nn_scratch) & [F1 Predictions](https://github.com/josep-audenis/f1-predictions)  
 - 📂 Portfolio: [josep-audenis.github.io/portfolio](https://josep-audenis.github.io/portfolio/)  
-- ✍️ Blog: [josep-audenis.github.io/blog](https://josep-audenis.github.io/blog/)  
+- ✍️ Blog: [josep-audenis.github.io/blog](https://josep-audenis.github.io/blog/)
 - 📄 [My CV](https://josep-audenis.github.io/files/CV.pdf)  
 
 <p align="center">
