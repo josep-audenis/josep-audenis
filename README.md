@@ -7,7 +7,7 @@
 
 ---
 
-I'm **Josep**, a **Data Scientist Intern** at Accenture and last year **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science** 🤖. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
+I'm **Josep**, a **Data Scientist Intern** at Accenture and last year **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
 
 I'm currently exploring topics in **Deep Learning**, **Reinforcement Learning**, and **Machine Learning**.  
 I’m also interested in **quantitative finance**, **model interpretability**, and how AI can be applied across diverse fields, from computer vision to decision systems.
@@ -85,7 +85,3 @@ I regularly share knowledge through my [blog](https://josep-audenis.github.io/bl
 <br>
 
 ---
-
-
-⭐ *Thank you for visiting my profile! Feel free to connect or check out my work.*
-
