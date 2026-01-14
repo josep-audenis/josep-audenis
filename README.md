@@ -14,7 +14,7 @@ I’m also interested in **quantitative finance**, **model interpretability**, a
 
 I regularly share knowledge through my [blog](https://josep-audenis.github.io/blog/) and showcase my projects in my [portfolio](https://josep-audenis.github.io/portfolio/). I'm always open to collaboration, discussions, and new ideas 💬.
 
-- 🔭 Currently working on: [Neural Network in C++](https://github.com/josep-audenis/nn_scratch) & [F1 Predictions](https://github.com/josep-audenis/f1-predictions)  
+- 🔭 Currently working on: [Neural Network in C++](https://github.com/josep-audenis/nn_scratch)
 - 📂 Portfolio: [josep-audenis.github.io/portfolio](https://josep-audenis.github.io/portfolio/)  
 - ✍️ Blog: [josep-audenis.github.io/blog](https://josep-audenis.github.io/blog/)
 - 📄 [My CV](https://josep-audenis.github.io/files/CV.pdf)  
