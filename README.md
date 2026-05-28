@@ -14,10 +14,9 @@ I’m also interested in **quantitative finance**, **model interpretability**, a
 
 I regularly share knowledge through my [blog](https://josep-audenis.github.io/blog/) and showcase my projects in my [portfolio](https://josep-audenis.github.io/portfolio/). I'm always open to collaboration, discussions, and new ideas 💬.
 
-- 🔭 Currently working on: [Python Neural Network Framework from Scratch](https://github.com/josep-audenis/neural-net)
-- 📂 Portfolio: [josep-audenis.github.io/portfolio](https://josep-audenis.github.io/portfolio/)  
-- ✍️ Blog: [josep-audenis.github.io/blog](https://josep-audenis.github.io/blog/)
-- 📄 [My CV](https://josep-audenis.github.io/files/CV.pdf)  
+-  Currently working on: [Python Neural Network Framework from Scratch](https://github.com/josep-audenis/neural-net)
+-  Website: [josep-audenis.github.io/portfolio](https://josep-audenis.github.io/)  
+-  [My CV](https://josep-audenis.github.io/files/CV.pdf)  
 
 <p align="center">
   <a href="https://linkedin.com/in/josep-audenis-46397824b" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
