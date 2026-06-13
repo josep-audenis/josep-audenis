@@ -2,17 +2,17 @@
   Hi 👋, I'm Josep
 </h1>
 <h3 align="center">
-  Computer Engineering Student | Data Scientist Intern @ Accenture | AI & Machine Learning Enthusiast
+  Computer Engineer | Data & AI Analyst @ Accenture | AI & Machine Learning Enthusiast
 </h3>
 
 ---
 
-I'm **Josep**, a **Data Scientist Intern** at Accenture and last year **Computer Engineering student** at **La Salle - Universitat Ramon Llull**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
+I'm **Josep**, a **Data & AI Analyst** at Accenture and **Computer Engineer**, passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. My work focuses on combining academic research with practical applications to solve real-world problems using cutting-edge and traditional AI.
 
 I'm currently exploring topics in **Deep Learning**, **Reinforcement Learning**, and **Machine Learning**.  
 I’m also interested in **quantitative finance**, **model interpretability**, and how AI can be applied across diverse fields, from computer vision to decision systems.
 
-I regularly share knowledge through my [blog](https://josep-audenis.github.io/blog/) and showcase my projects in my [portfolio](https://josep-audenis.github.io/portfolio/). I'm always open to collaboration, discussions, and new ideas 💬.
+I'm always open to collaboration, discussions, and new ideas.
 
 -  Currently working on: [Quant Lab](https://github.com/josep-audenis/quant-lab)
 -  [Website](https://josep-audenis.github.io/)  
